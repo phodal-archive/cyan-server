@@ -2,7 +2,7 @@
   "files": {
     "my-app.js": {
       "filename": "app/my-app.js",
-      "version": "4fdf1cf7437154eb3efa1f71540e43770610df2b5cee4d0188f8ca845c8a0676"
+      "version": "0.2"
     }
   },
   "load": [

@@ -1,12 +1,12 @@
 {
   "files": {
-    "my-app": {
+    "myapp": {
       "filename": "app/my-app.js",
-      "version": "0.2"
+      "version": "3"
     }
   },
   "load": [
-    "app/my-app.js"
+    "myapp"
   ],
   "root": "./"
 }

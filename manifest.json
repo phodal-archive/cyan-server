@@ -1,6 +1,6 @@
 {
   "files": {
-    "my-app.js": {
+    "my-app": {
       "filename": "app/my-app.js",
       "version": "0.2"
     }

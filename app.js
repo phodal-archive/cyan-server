@@ -1,1 +1,1 @@
-alert('hello server');
+alert("hello server");

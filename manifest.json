@@ -1,8 +1,8 @@
 {
   "files": {
-    "my-app.js": {
-      "filename": "app.js",
-      "version": "45"
+    "app": {
+      "filename": "app/my-app.js",
+      "version": "35"
     }
   },
   "load": [

@@ -1,1 +1,1 @@
-alert("hello server");
+console.log("hello server");
